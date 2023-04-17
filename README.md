@@ -1,2 +1,2 @@
 # Grocery-Store-Sales-Analysis
-!(grocery store.png)
+!(/images/grocery store.png)
