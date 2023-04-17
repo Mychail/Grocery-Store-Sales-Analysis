@@ -1,3 +1,3 @@
 # Grocery-Store-Sales-Analysis
-!(grocery store.png)
+!(Overview.png)
 
