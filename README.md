@@ -1,2 +1,4 @@
-# Grocery-Store-Sales-Analysis
+# Grocery Store Sales Analysis
 ![](grocery_store.png)
+
+# Introduction
