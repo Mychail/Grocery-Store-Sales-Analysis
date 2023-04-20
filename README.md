@@ -41,3 +41,7 @@ The dataset contained no errors and was found to be clean, it was normalized to 
 Retail sales fact table | Category dimension table
 ----------------------- | ------------------------
 ![fact table](Retail_table.png)|![category dimension table](Category_table.png)
+
+Customer dimension table | Location dimension table
+-----------------------  | -----------------------
+![customer table](Customer_table.png)|![location table](Location_table.png)
