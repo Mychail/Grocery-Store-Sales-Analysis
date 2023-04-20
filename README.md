@@ -45,3 +45,17 @@ Retail sales fact table | Category dimension table
 Customer dimension table | Location dimension table
 -----------------------  | -----------------------
 ![customer table](Customer_table.png)|![location table](Location_table.png)
+
+A date table titled calendar table was created to house date segements in it's columns
+the columns include: 
+* year
+* year month
+* year month number
+* quaters
+* month
+* month number
+
+Date table|
+--------- |
+![](Date_Table.png)|
+
