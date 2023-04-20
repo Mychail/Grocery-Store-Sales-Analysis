@@ -59,3 +59,16 @@ Date table|
 --------- |
 ![](Date_Table.png)|
 
+## Data Modelling
+Data modelling was conducted to create primary keys in the dimensions tables for ease of connection with the fact table
+the following columns acted as the primary keys :
+* category ID
+* customer ID
+* location ID
+* date column
+the automatic connections were checked for connection issues, none was found as they were all properly connected
+
+Data Model Star Schema|
+-------------------  |
+![data model](data_modelling.png)|
+
