@@ -72,3 +72,8 @@ Data Model Star Schema|
 -------------------  |
 ![data model](data_modelling.png)|
 
+## Analysis and Visualization
+
+Report Overview|
+-------------  |
+![](Overview.png)|
