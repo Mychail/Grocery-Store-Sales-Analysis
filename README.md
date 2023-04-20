@@ -17,6 +17,9 @@ After thinking deeply, the following questions were decided as the best path to 
 * what product is generating the most sales with respect to the year under review
 * What is the profit margin of sales recorded
 * Which product generates the most profits and what is it's profit margin
+* Which city is the business generating the most sales and is the same true for profits.
+
+The dataset is a CSV file saved locally in a folder. the file is [denormalized](Retail_Analytics.csv) in a single table
  
 
 
