@@ -73,6 +73,7 @@ Data Model Star Schema|
 ![data model](data_modelling.png)|
 
 ## Analysis and Visualization
+The full report is available [here](https://app.powerbi.com/links/s7HpzItNac?ctid=cf4d1d51-a324-48f4-b579-208b2d49300f&pbi_source=linkShare)
 
 Report Overview|
 -------------  |
