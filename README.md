@@ -77,3 +77,27 @@ Data Model Star Schema|
 Report Overview|
 -------------  |
 ![](Overview.png)|
+
+Sales Report|
+-------------  |
+![](Sales_Report.png)|
+
+Profit Report|
+-------------  |
+![](Profit_Report.png)|
+
+## Insights and Recommendation
+
+**Insights**
+* The current year 2018 has been noted to be the company's most successful year yet, pulling 50% of the total cumulative sales of previous years.
+* Health drinks and soft drinks which accounted for the most sales across all the years retained their spot as the company's highest selling and  most profitable products.
+* The city of Kanyakumari generated the most profit for the year 2018 leaping from its fourth profitable spot in the previous year.
+* It was noticed that the company's profits peaked in 2016, and dropped significantly in 2017 before rising in 2018.
+* Fish sales accounted for products where we noticed the highest profit margin with almost 2% highest than the inventory average of 27%
+
+**Recommendation**
+
+* An increase in marketing and investment in Fish product for the coming year.
+* Sales approach and strategy of our store in the city of Kanyakumari should be employed in our other stores.
+* An expansion of the existing store in Kanyakumari, or opening of more branches in said city.
+* Marketing and sales strategy used for Health and Soft drinks should be applied to other products.
